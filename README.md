@@ -1,4 +1,4 @@
-Hi👋<br>I’m a Full Stack Developer specializing in Laravel and backend systems. Passionate about building secure, scalable, and user-friendly web applications. I enjoy turning complex backend logic into simple, effective solutions.<br><br>💻 What I Do<br><br>Develop full-stack apps using Laravel, PHP, MySQL, and JavaScript<br>Build and optimize APIs for seamless integrations<br>Design efficient database architectures<br><br>📚 Learning<br>Advanced Laravel features, DevOps practices, and system design.
+Hi I'm Ittehad👋<br>I’m a Full Stack Developer specializing in Laravel and backend systems. Passionate about building secure, scalable, and user-friendly web applications. I enjoy turning complex backend logic into simple, effective solutions.<br><br>💻 What I Do<br><br>Develop full-stack apps using Laravel, PHP, MySQL, and JavaScript<br>Build and optimize APIs for seamless integrations<br>Design efficient database architectures<br><br>📚 Learning<br>Advanced Laravel features, DevOps practices, and system design.
 
 
 ## 🌐 Socials:
