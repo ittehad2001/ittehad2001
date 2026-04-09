@@ -1,5 +1,11 @@
-Hi I'm Ittehad👋<br>I’m a Full Stack Developer specializing in Laravel and backend systems. Passionate about building secure, scalable, and user-friendly web applications. I enjoy turning complex backend logic into simple, effective solutions.<br><br>💻 What I Do<br><br>Develop full-stack apps using Laravel, PHP, MySQL, and JavaScript<br>Build and optimize APIs for seamless integrations<br>Design efficient database architectures<br><br>📚 Learning<br>Advanced Laravel features, DevOps practices, and system design.
+Hi I'm Ittehad 👋<br>
+I’m a Full Stack Developer specializing in Laravel and backend systems, with experience in modern frontend frameworks like React and Vue.js. Passionate about building secure, scalable, and user-friendly web applications. I enjoy turning complex backend logic into simple, effective solutions.<br><br>
 
+💻 What I Do<br><br>
+Develop full-stack applications using Laravel, PHP, MySQL, JavaScript, React, and Vue.js<br>
+Build and optimize APIs for seamless integrations<br>
+Design efficient and scalable database architectures<br>
+Create responsive and interactive user interfaces with modern frontend frameworks<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ittehad.bin.rahim.2001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/____ifty_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ittehadbinrahim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ittehadbinrahim@gmail.com) 
