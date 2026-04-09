@@ -20,11 +20,6 @@ Hi I'm Ittehad👋<br>I’m a Full Stack Developer specializing in Laravel and b
 ### 📈 Activity Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ittehad2001&theme=react-dark&area=true)
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/ittehad2001/ittehad2001/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
----
-[![](https://visitcount.itsvg.in/api?id=ittehad2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
