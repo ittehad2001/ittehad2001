@@ -13,11 +13,6 @@ Hi I'm Ittehad👋<br>I’m a Full Stack Developer specializing in Laravel and b
 
 ### 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ittehad2001&theme=github-dark)
-
-## 🚀 Featured Projects
-- 🔹 Laravel E-commerce System – Full backend system with payment integration  
-- 🔹 Social Media Platform – Laravel API + React frontend  
-- 🔹 PDF Report Generator – Dynamic PDF using mPDF  
 ---
 [![](https://visitcount.itsvg.in/api?id=ittehad2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
